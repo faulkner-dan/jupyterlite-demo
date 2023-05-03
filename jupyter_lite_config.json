@@ -1,5 +1,5 @@
 "LiteBuildConfig": {
    "extra_ignore_contents": [
-      "/\./data/"
+      "/\./contents/data/"
    ]
 }
